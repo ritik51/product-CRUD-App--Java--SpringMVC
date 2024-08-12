@@ -1,2 +1,2 @@
 # product-CRUD-App--Java--SpringMVC
-this is project is based on performing CRUD operation with MYSQL Database. using Technologies like JAVA, Spring Framework, Spring MVC, Spring Boot, MY SQL, Hibernate, JSP.
+this project is based on performing CRUD operation with MYSQL Database. using Technologies like JAVA, Spring Framework, Spring MVC, Spring Boot, MY SQL, Hibernate, JSP.
